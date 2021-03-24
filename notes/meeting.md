@@ -6,6 +6,8 @@
 - We agreed to meet twice a week, then re-evaluate from time to time.
 
 ## March 23, 2021
+- Create a copy of the data with our initials when we upload our data.
+
 - Step 1 of Assignment: Cleaning Data 
   - Date Format needs to be changed - Bryan
   - Bedrooms/Bathrooms Missing Values - Mayel
