@@ -2,9 +2,9 @@
 
 # Team members
 - Katie Hu
-  - khu@sandiego.edu
-  - (903)243-7519  
-- Bryan 
+  - khu@sandiego.edu 
+- Bryan Flores 
+  - bryanflores@sandiego.edu
 - Mayel Espino
   - MAYELESPINO@sandiego.edu
   - (510)512-5323
