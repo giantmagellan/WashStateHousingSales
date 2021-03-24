@@ -5,4 +5,8 @@
 - We agreed on the dataset to use
 - We agreed to meet twice a week, then re-evaluate from time to time.
 
-## March 18, 2021
+## March 23, 2021
+- Cleaning Data
+- Date Format needs to be changed - Bryan
+- Bedrooms/Bathrooms Missing Values - Mayel
+- Sqft_living/lot Missing Values - Katie
