@@ -1,7 +1,9 @@
 # Welcome to the USD-ADS500B team home page
 
 # Team members
-- Kathie Hu 
+- Katie Hu
+  - khu@sandiego.edu
+  - (903)243-7519  
 - Bryan 
 - Mayel Espino
   - MAYELESPINO@sandiego.edu
