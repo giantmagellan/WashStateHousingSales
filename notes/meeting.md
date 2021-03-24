@@ -13,3 +13,5 @@
 
 - Questions to bring up in Office Hours
   - Should we use hard code or trust the commands to use when working on the data? 
+  - Is there any minimum requirements or expectations for the final project like references, graphs, etc.?
+  - Based on analyzing the dataset, do we just create our own story in the data itself and leave it open to interpretation?
