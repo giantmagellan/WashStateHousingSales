@@ -4,3 +4,6 @@
   - How will housing prices change over time for the next 5 years?
     - Visualization of average price per zipcode per year for 5 years. (predictive analytics)
       - Visualization of past pricing per zipcode per year
+4. sqft living takes floors into account
+  - Remove floors column
+5. waterfront view 
