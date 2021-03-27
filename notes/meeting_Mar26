@@ -1,0 +1,6 @@
+1. Used the mean of 'sqft_lot15' column grouped by zipcode to fill in missing data for 'sqft_lot' column.
+2. Missing data for 'sqft_living' was replaced by the sum of 'sqft_above' and 'sqft_basement'.
+3. Overall project question:
+  - How will housing prices change over time for the next 5 years?
+    - Visualization of average price per zipcode per year for 5 years. (predictive analytics)
+      - Visualization of past pricing per zipcode per year
