@@ -23,3 +23,11 @@
   - Find out what columns need to be adjusted to be correct in case of any oddballs. 
   - Bedrooms is off with 33 bedrooms in one and 0 or blank in others
   - Elmiminate Floors? 
+
+## March 30, 2021
+- Chart Ideas
+  - Cluster : House Price by Location with x and y being lat and long with price being the color scale. 
+    - Maybe even three categories for low income, median income, high income  
+  - Time Series: Time Lapse of the next 2 quarters for projection for price sales in Kings County
+  - Visual Spatialization Charts
+ -
