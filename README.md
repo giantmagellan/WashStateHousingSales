@@ -12,3 +12,17 @@ This branch performs the following functions:
        a. Bedrooms<br>
        b. Living Area (sqft)<br>
        c. Grade
+
+### Results
+Method: Batch Gradient Descent <br>
+Optimal Learning Rate: 0.15 <br>
+Metric: Pearson <br>
+Accuracy: 70% <br>
+
+Bedrooms | Square Feet | Predicted Price
+--- | --- | ---
+1 | 900 | $250,985.93
+2 | 1400 | $347,977.84
+3 | 1850 | $435,293.07
+4 | 2400 | $541,961.64
+- Constant: Grade as 7
