@@ -1,6 +1,6 @@
 # Welcome to the USD-ADS500B Team 4 Home Page!
 
-# Team members
+# Team Members
 - Katie Hu: khu@sandiego.edu 
 - Bryan Flores: bryanflores@sandiego.edu
 - Mayel Espino: MAYELESPINO@sandiego.edu
@@ -22,7 +22,7 @@ Bedrooms | Square Feet | Predicted Price
 4 | 2400 | $541,961.64
 - Constant: Grade as 7
 
-# Project files
+# Project Files
 [Project data files](./projectData/readme.md)
 [meeting notes](./notes/meeting.md)
 
