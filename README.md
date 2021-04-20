@@ -1,4 +1,4 @@
-# Welcome to the USD-ADS500B team home page
+# Welcome to the USD-ADS500B Team 4 Home Page!
 
 # Team members
 - Katie Hu: khu@sandiego.edu 
