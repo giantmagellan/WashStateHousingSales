@@ -1,4 +1,4 @@
-# Welcome to the USD-ADS500B Team 4 Home Page!
+# Washington State Housing Price Predictions
 
 # Team Members
 - Katie Hu: khu@sandiego.edu 
